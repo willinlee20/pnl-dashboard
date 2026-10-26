@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/pnl-dashboard/static/css/main.0a44d27b.css",
-    "main.js": "/pnl-dashboard/static/js/main.d10bff47.js",
+    "main.js": "/pnl-dashboard/static/js/main.658ef6cd.js",
+    "static/media/toola-logo-watermark.png": "/pnl-dashboard/static/media/toola-logo-watermark.d6a45289448676214d0a.png",
     "index.html": "/pnl-dashboard/index.html",
     "main.0a44d27b.css.map": "/pnl-dashboard/static/css/main.0a44d27b.css.map",
-    "main.d10bff47.js.map": "/pnl-dashboard/static/js/main.d10bff47.js.map"
+    "main.658ef6cd.js.map": "/pnl-dashboard/static/js/main.658ef6cd.js.map"
   },
   "entrypoints": [
     "static/css/main.0a44d27b.css",
-    "static/js/main.d10bff47.js"
+    "static/js/main.658ef6cd.js"
   ]
 }
